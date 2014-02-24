@@ -1,6 +1,8 @@
 {
     "name": "captaindoe/duwa",
     "description": "PHP bibliotek för att skicka brevutskick. DUWA.io är ett simpelt REST API som möjliggör skapandet av brevutskick i HTML.",
+    "keywords": ["brevutskick", "brev", "rest", "api"],
+    "homepage": "https://duwa.io",
     "minimum-stability": "dev",
     "authors": [
         {
