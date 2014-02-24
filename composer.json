@@ -1,0 +1,20 @@
+{
+    "name": "captaindoe/duwa",
+    "description": "PHP bibliotek för att skicka brevutskick. DUWA.io är ett simpelt REST API som möjliggör skapandet av brevutskick i HTML.",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "David Wibergh",
+            "email": "david@wibergh.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Captaindoe": "src/"
+        }
+    },
+    "require": {
+        "mashape/unirest-php": "dev-master",
+        "php": ">=5.3.0"
+    }
+}
