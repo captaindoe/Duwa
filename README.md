@@ -22,7 +22,7 @@ det för att installera DUWA.io.
 ```
 
 ### Installera från GitHub
-DUWA.io kräver PHP `v5.3+`. Installera biblioteket från Github:
+DUWA.io kräver PHP `v5.3+` och CURL. Installera biblioteket från Github:
 
 ```bash
 $ git clone https://github.com/captaindoe/Duwa.git
